@@ -1,5 +1,5 @@
 class MyClass:
-    memebrship = True
+    memebrship = False
     def __init__(self,name, age):
         self.name= name
         self.age = age
